@@ -52,8 +52,6 @@ INLAND Gray High Speed PLA+ Filament - Fast Printing PLA Plus 3D Filament - 1.75
   Supports: Everywhere \
   Estimated Printing Time: 5 hours and 48 minutes.
 
-# Code
-The code for this Watering System can be found below, as well as in the main.py file attached herein.
 ## Software
 I personally like to use Thonny for my editing/programming of microcontrollers, so that is what I have here.
 
