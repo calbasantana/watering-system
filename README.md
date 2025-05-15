@@ -39,7 +39,7 @@ Below you can find the printer and material used.
  Original Prusa Mini+
 #### Material(s)
 
-INLAND Gray High Speed PLA+ Filament - Fast Printing PLA Plus 3D Filament - 1.75mm Diameter, 1kg - Up to 500mm/s Speed, +/- 0.03mm Accuracy – this can be purchased for $26.99 at the following link: https://www.amazon.com/Micro-Center-Inland-Speed-Filament/dp/B0CTR6SXBD/ref=sr_1_6?crid=H4IWIMNXWFRT&dib=eyJ2IjoiMSJ9.jtzsQdU9hAW9WIzOWiyxAqICr91-2fQVZ9EQpZWIG4SBrGzYr7FREh8bUfA3acn1zP3vvVKpC8uLxSKBH9JE0HHudVS3HINPevgjVAZVgYIbEsgnJ9ZyC64X1p4K32tjXyAE4IHNDNj2sIY7LmhELL02-moDEuSCAbwnSzO5oJnNK9t48X6rlhvanYOWVFytZSnMcczt51IKkxxIr_6XduEr7_bX1-8svJma0PtqOIs.ggUIwKYRNYpFMNCBx8On8xgnb6B8GxjVEk3VEckEzrg&dib_tag=se&keywords=inland%2Bgray%2Bpla&qid=1740963816&sprefix=inland%2Bgray%2Bpl%2Caps%2C137&sr=8-6&th=1
+* [INLAND Gray PLA+ Filament ($26.99)](https://www.amazon.com/Micro-Center-Inland-Speed-Filament/dp/B0CTR6SXBD/ref=sr_1_6?crid=H4IWIMNXWFRT&dib=eyJ2IjoiMSJ9.jtzsQdU9hAW9WIzOWiyxAqICr91-2fQVZ9EQpZWIG4SBrGzYr7FREh8bUfA3acn1zP3vvVKpC8uLxSKBH9JE0HHudVS3HINPevgjVAZVgYIbEsgnJ9ZyC64X1p4K32tjXyAE4IHNDNj2sIY7LmhELL02-moDEuSCAbwnSzO5oJnNK9t48X6rlhvanYOWVFytZSnMcczt51IKkxxIr_6XduEr7_bX1-8svJma0PtqOIs.ggUIwKYRNYpFMNCBx8On8xgnb6B8GxjVEk3VEckEzrg&dib_tag=se&keywords=inland%2Bgray%2Bpla&qid=1740963816&sprefix=inland%2Bgray%2Bpl%2Caps%2C137&sr=8-6&th=1)
 
 #### Software
  PrusaSlicer
